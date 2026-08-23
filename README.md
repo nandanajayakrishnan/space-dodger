@@ -17,3 +17,4 @@ source venv/bin/activate   # macOS/Linux
 pip install -r requirements.txt
 python3 main.py
 ```
+![alt text](image.png)
