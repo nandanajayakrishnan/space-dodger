@@ -3,6 +3,7 @@
 A simple arcade game built with Python and Pygame. Dodge falling asteroids and survive as long as you can — the game gets harder the longer you last!
 
 ## How to Play
+![Space Dodger gameplay](screenshots/gameplay.png)
 - Press `SPACE` to start
 - Use arrow keys to move your ship
 - Avoid the red asteroids
